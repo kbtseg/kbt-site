@@ -1,0 +1,2 @@
+[Sat Sep 03 02:36:57.427406 2022] [php:error] [pid 66] [client 107.190.136.2:33649] script '/var/www/html/kbtseg.com/web/wp-login.php' not found or unable to stat
+[Sat Sep 03 07:13:12.397205 2022] [php:error] [pid 67] [client 192.163.194.31:13449] script '/var/www/html/kbtseg.com/web/wp-login.php' not found or unable to stat
